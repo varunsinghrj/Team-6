@@ -1,0 +1,17 @@
+h1{
+ display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: oblique;
+}
+body{
+    background-color: blanchedalmond;
+}
+p{
+    font-size: x-large;
+    justify-content: center;
+}
+a{
+    display: flex;
+    justify-content:center ;
+}
